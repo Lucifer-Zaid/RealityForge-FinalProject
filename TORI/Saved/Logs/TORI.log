@@ -1053,3 +1053,241 @@ Recommended: 22.2.2
 [2023.06.19-12.46.57:604][429]AssetCheck: New page: Asset Save: multiple assets
 [2023.06.19-12.46.57:604][429]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
 [2023.06.19-12.46.57:604][429]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TORI/Maps/JTM_BuiltData.JTM_BuiltData
+[2023.06.19-12.49.19:305][959]LogViewport: Scene viewport resized to 745x714, mode Windowed.
+[2023.06.19-12.50.43:507][277]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45) ...
+[2023.06.19-12.50.44:575][277]LogStaticMesh: Display: Building static mesh Cylinder_E95B4F45...
+[2023.06.19-12.50.44:575][277]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45) ...
+[2023.06.19-12.50.45:479][277]LogStaticMesh: Built static mesh [0.07s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45.Cylinder_E95B4F45
+[2023.06.19-12.50.45:550][277]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45) ...
+[2023.06.19-12.51.45:683][635]LogStaticMesh: Display: Building static mesh Cylinder_E95B4F45...
+[2023.06.19-12.51.45:683][635]LogStaticMesh: Built static mesh [0.00s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45.Cylinder_E95B4F45
+[2023.06.19-12.51.45:683][635]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45) ...
+[2023.06.19-12.51.47:517][647]LogMeshUtilities: Finished distance field build in 1.5s - 21x21x126 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 42 triangles, Cylinder_E95B4F45
+[2023.06.19-12.52.17:610][809]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2) ...
+[2023.06.19-12.52.17:802][809]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-12.52.19:334][809]LogStaticMesh: Built static mesh [0.29s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-12.52.19:334][809]LogMeshUtilities: Finished distance field build in 1.4s - 21x21x126 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 42 triangles, Cylinder_493C23D2
+[2023.06.19-12.52.20:987][822]LogMeshUtilities: Finished distance field build in 1.6s - 21x21x126 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 42 triangles, Cylinder_493C23D2
+[2023.06.19-12.52.54:656][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-12.54.44:074][630]Cmd: TRANSACTION UNDO
+[2023.06.19-12.54.44:086][630]LogEditorTransaction: Undo Transform
+[2023.06.19-12.54.46:421][632]Cmd: TRANSACTION UNDO
+[2023.06.19-12.54.46:421][632]LogEditorTransaction: Undo Transform
+[2023.06.19-12.55.02:746][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-12.55.29:591][974]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-12.55.29:591][974]LogStaticMesh: Built static mesh [0.00s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-12.55.29:591][974]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2) ...
+[2023.06.19-12.56.42:129][564]LogPhysics: Warning: Scale for /Game/TORI/Maps/JTM.JTM:PersistentLevel.StaticMeshActor_3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=1.500 Z=0.000
+[2023.06.19-12.56.42:130][564]LogPhysics: Warning: Scale for /Game/TORI/Maps/JTM.JTM:PersistentLevel.StaticMeshActor_3.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=1.500 Z=0.000
+[2023.06.19-12.57.09:091][741]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-12.57.37:478][929]Cmd: TRANSACTION UNDO
+[2023.06.19-12.57.37:478][929]LogEditorTransaction: Undo Transform
+[2023.06.19-12.57.42:839][976]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-12.57.42:839][976]LogStaticMesh: Built static mesh [0.00s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-12.58.34:982][291]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-12.58.34:982][291]LogStaticMesh: Built static mesh [0.00s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-12.58.38:323][310]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.19-12.58.39:274][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.19-12.58.39:395][310]PIE: New page: PIE session: JTM (19-Jun-2023, 10:58:39 pm)
+[2023.06.19-12.58.40:119][310]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.19-12.58.40:159][310]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.19-12.58.40:224][310]LogPlayLevel: Creating play world package: /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-12.58.40:343][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102681s)
+[2023.06.19-12.58.40:343][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TORI/Maps/JTM.JTM to /Game/TORI/Maps/UEDPIE_0_JTM.JTM (0.127896s)
+[2023.06.19-12.58.40:359][310]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.19-12.58.40:420][310]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-12.58.40:455][310]LogAIModule: Creating AISystem for world JTM
+[2023.06.19-12.58.40:457][310]LogPlayLevel: PIE: World Init took: (0.097334s)
+[2023.06.19-12.58.40:698][310]LogUObjectHash: Compacting FUObjectHashTables data took   9.58ms
+[2023.06.19-12.58.40:736][310]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.19-12.58.40:738][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.19-12.58.40:738][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.19-12.58.40:780][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.19-12.58.40:780][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.19-12.58.40:780][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.19-12.58.40:845][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.19-12.58.40:988][310]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- High Definition Audio Device)
+[2023.06.19-12.58.40:990][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.19-12.58.40:990][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.19-12.58.40:990][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.19-12.58.41:005][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.19-12.58.41:005][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.19-12.58.41:008][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.19-12.58.41:008][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.19-12.58.41:008][310]LogInit: FAudioDevice initialized.
+[2023.06.19-12.58.41:008][310]LogAudio: Display: Audio Device (ID: 2) registered with world 'JTM'.
+[2023.06.19-12.58.41:269][310]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.19-12.58.41:282][310]LogWorld: Bringing World /Game/TORI/Maps/UEDPIE_0_JTM.JTM up for play (max tick rate 60) at 2023.06.19-17.58.41
+[2023.06.19-12.58.41:302][310]LogWorld: Bringing up level for play took: 0.032795
+[2023.06.19-12.58.41:370][310]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.06.19-12.58.43:374][310]PIE: Server logged in
+[2023.06.19-12.58.43:413][310]PIE: Play in editor total start time 4.651 seconds.
+[2023.06.19-12.59.15:069][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-12.59.15:069][447]LogWorld: BeginTearingDown for /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-12.59.15:222][447]LogWorld: UWorld::CleanupWorld for JTM, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-12.59.15:348][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-12.59.16:124][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.19-12.59.16:149][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-12.59.16:316][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.19-12.59.16:584][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.19-12.59.16:586][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.19-12.59.16:934][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-12.59.17:189][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.19-12.59.17:343][448]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.06.19-13.03.09:596][589]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-13.03.09:596][589]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2) ...
+[2023.06.19-13.03.09:670][590]LogStaticMesh: Built static mesh [0.02s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-13.03.29:706][738]Cmd: TRANSACTION UNDO
+[2023.06.19-13.03.29:706][738]LogEditorTransaction: Undo Begin Bevel
+[2023.06.19-13.03.48:200][879]Cmd: TRANSACTION UNDO
+[2023.06.19-13.03.48:200][879]LogEditorTransaction: Undo Begin Bevel
+[2023.06.19-13.05.10:563][222]LogStaticMesh: Display: Building static mesh Cylinder_493C23D2...
+[2023.06.19-13.05.10:563][222]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2) ...
+[2023.06.19-13.05.10:683][223]LogStaticMesh: Built static mesh [0.02s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2
+[2023.06.19-13.05.59:926][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.06.19-13.05.59:999][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto1
+[2023.06.19-13.05.59:999][492]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto1D37597BD4E9BA68233554A95CBF0574B.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto1.umap'
+[2023.06.19-13.06.00:427][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.670
+[2023.06.19-13.06.00:496][492]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.670
+[2023.06.19-13.06.00:549][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45] ([1] browsable assets)...
+[2023.06.19-13.06.00:915][492]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45.Cylinder_E95B4F45]
+[2023.06.19-13.06.00:915][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45]
+[2023.06.19-13.06.00:996][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto1
+[2023.06.19-13.06.00:996][492]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_E95B4F45_Auto136872A1A4DB43C819D7B088F3BB439EF.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto1.uasset'
+[2023.06.19-13.06.00:997][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2] ([1] browsable assets)...
+[2023.06.19-13.06.01:028][492]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2.Cylinder_493C23D2]
+[2023.06.19-13.06.01:028][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2]
+[2023.06.19-13.06.01:034][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2_Auto1
+[2023.06.19-13.06.01:034][492]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_493C23D2_Auto15F9E1F99488B2A3F5ADF30A9F56367C5.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_493C23D2_Auto1.uasset'
+[2023.06.19-13.06.01:167][492]LogFileHelpers: Auto-saving content packages took 0.603
+[2023.06.19-13.07.49:883][114]LogStaticMesh: Display: Building static mesh Cylinder_E95B4F45...
+[2023.06.19-13.07.49:883][114]LogStaticMesh: Built static mesh [0.02s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45.Cylinder_E95B4F45
+[2023.06.19-13.07.49:883][114]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45) ...
+[2023.06.19-13.07.51:282][121]LogMeshUtilities: Finished distance field build in 1.3s - 21x21x126 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 64 triangles, Cylinder_E95B4F45
+[2023.06.19-13.07.53:590][134]LogViewport: Scene viewport resized to 1270x714, mode Windowed.
+[2023.06.19-13.08.14:096][228]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-13.11.19:552][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-13.11.20:808][921]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-13.11.26:013][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.19-13.11.26:021][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.19-13.11.26:021][955]PIE: New page: PIE session: JTM (19-Jun-2023, 11:11:26 pm)
+[2023.06.19-13.11.26:021][955]LogPlayLevel: Creating play world package: /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-13.11.26:025][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003771s)
+[2023.06.19-13.11.26:025][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TORI/Maps/JTM.JTM to /Game/TORI/Maps/UEDPIE_0_JTM.JTM (0.003903s)
+[2023.06.19-13.11.26:025][955]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.19-13.11.26:025][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-13.11.26:026][955]LogAIModule: Creating AISystem for world JTM
+[2023.06.19-13.11.26:026][955]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2023.06.19-13.11.26:491][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.06.19-13.11.26:492][955]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.19-13.11.26:492][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.19-13.11.26:492][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.19-13.11.26:493][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.19-13.11.26:493][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.19-13.11.26:493][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.19-13.11.26:582][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.19-13.11.26:602][955]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- High Definition Audio Device)
+[2023.06.19-13.11.26:602][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.19-13.11.26:602][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.19-13.11.26:603][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.19-13.11.26:679][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.06.19-13.11.26:679][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.06.19-13.11.26:681][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.06.19-13.11.26:681][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.06.19-13.11.26:681][955]LogInit: FAudioDevice initialized.
+[2023.06.19-13.11.26:681][955]LogAudio: Display: Audio Device (ID: 3) registered with world 'JTM'.
+[2023.06.19-13.11.26:696][955]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.19-13.11.26:698][955]LogWorld: Bringing World /Game/TORI/Maps/UEDPIE_0_JTM.JTM up for play (max tick rate 60) at 2023.06.19-18.11.26
+[2023.06.19-13.11.26:698][955]LogWorld: Bringing up level for play took: 0.000829
+[2023.06.19-13.11.26:700][955]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.06.19-13.11.26:723][955]PIE: Server logged in
+[2023.06.19-13.11.26:724][955]PIE: Play in editor total start time 0.704 seconds.
+[2023.06.19-13.11.31:359][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-13.11.31:359][968]LogWorld: BeginTearingDown for /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-13.11.31:359][968]LogWorld: UWorld::CleanupWorld for JTM, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-13.11.31:360][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-13.11.31:740][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.19-13.11.31:743][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-13.11.31:778][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.19-13.11.31:778][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.19-13.11.31:780][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.19-13.11.31:788][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-13.11.31:819][968]LogUObjectHash: Compacting FUObjectHashTables data took  29.37ms
+[2023.06.19-13.11.31:860][969]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.06.19-13.11.36:519][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-13.11.42:415][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.19-13.11.42:421][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.19-13.11.42:421][ 24]PIE: New page: PIE session: JTM (19-Jun-2023, 11:11:42 pm)
+[2023.06.19-13.11.42:421][ 24]LogPlayLevel: Creating play world package: /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-13.11.42:424][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003012s)
+[2023.06.19-13.11.42:424][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TORI/Maps/JTM.JTM to /Game/TORI/Maps/UEDPIE_0_JTM.JTM (0.003114s)
+[2023.06.19-13.11.42:424][ 24]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.19-13.11.42:424][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-13.11.42:425][ 24]LogAIModule: Creating AISystem for world JTM
+[2023.06.19-13.11.42:426][ 24]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2023.06.19-13.11.42:450][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.19-13.11.42:452][ 24]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.19-13.11.42:452][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.19-13.11.42:452][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.19-13.11.42:453][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.19-13.11.42:453][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.19-13.11.42:453][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.19-13.11.42:456][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.19-13.11.42:477][ 24]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- High Definition Audio Device)
+[2023.06.19-13.11.42:479][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.19-13.11.42:479][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.19-13.11.42:479][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.19-13.11.42:480][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.06.19-13.11.42:480][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.06.19-13.11.42:516][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.06.19-13.11.42:516][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.06.19-13.11.42:516][ 24]LogInit: FAudioDevice initialized.
+[2023.06.19-13.11.42:516][ 24]LogAudio: Display: Audio Device (ID: 4) registered with world 'JTM'.
+[2023.06.19-13.11.42:536][ 24]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.19-13.11.42:536][ 24]LogWorld: Bringing World /Game/TORI/Maps/UEDPIE_0_JTM.JTM up for play (max tick rate 60) at 2023.06.19-18.11.42
+[2023.06.19-13.11.42:536][ 24]LogWorld: Bringing up level for play took: 0.000844
+[2023.06.19-13.11.42:540][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.06.19-13.11.42:544][ 24]PIE: Server logged in
+[2023.06.19-13.11.42:545][ 24]PIE: Play in editor total start time 0.124 seconds.
+[2023.06.19-13.11.44:065][ 26]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088636 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.06.19-13.12.18:059][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-13.12.18:059][174]LogWorld: BeginTearingDown for /Game/TORI/Maps/UEDPIE_0_JTM
+[2023.06.19-13.12.18:059][174]LogWorld: UWorld::CleanupWorld for JTM, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-13.12.18:060][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-13.12.18:440][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.19-13.12.18:443][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-13.12.18:479][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.19-13.12.18:480][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.19-13.12.18:564][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.19-13.12.18:577][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.19-13.12.18:652][175]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.06.19-13.12.36:503][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.19-13.16.42:546][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.06.19-13.16.42:563][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto2
+[2023.06.19-13.16.42:563][ 61]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto2BE00A67C4349B948AC94189E9C6F064D.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto2.umap'
+[2023.06.19-13.16.42:688][ 61]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.168
+[2023.06.19-13.16.42:688][ 61]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.168
+[2023.06.19-13.16.42:689][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45] ([1] browsable assets)...
+[2023.06.19-13.16.42:913][ 61]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45.Cylinder_E95B4F45]
+[2023.06.19-13.16.42:913][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45]
+[2023.06.19-13.16.42:928][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto2
+[2023.06.19-13.16.42:928][ 61]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_E95B4F45_Auto28D77B4F94B1F619E1E0A5B806D9C662D.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto2.uasset'
+[2023.06.19-13.16.42:928][ 61]LogFileHelpers: Auto-saving content packages took 0.241
