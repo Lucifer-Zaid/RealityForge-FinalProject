@@ -996,3 +996,60 @@ Recommended: 22.2.2
 [2023.06.19-12.23.51:608][  8]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
 [2023.06.19-12.23.52:046][  8]LogSlate: Took 0.170087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.06.19-12.26.58:197][997]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.19-12.43.18:190][923]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.19-12.43.23:037][923]LogSlate: Took 0.611454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.19-12.43.24:245][923]LogSlate: Took 0.313341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.19-12.44.29:330][190]LogAssetTools: Warning: Failed to import 'D:\Personal Projects\RealityForge-FinalProject\TORI\Content\NewFolder\Tori\Map\_GENERATED\Zaid\Cylinder_9E8114A8.uasset'. Unknown extension 'uasset'.
+[2023.06.19-12.44.29:390][190]LogAssetTools: Warning: Failed to import 'D:\Personal Projects\RealityForge-FinalProject\TORI\Content\NewFolder\Tori\Map\_GENERATED\Zaid\Cylinder_7759D05A.uasset'. Unknown extension 'uasset'.
+[2023.06.19-12.44.29:435][190]LogAssetTools: Warning: Failed to import 'D:\Personal Projects\RealityForge-FinalProject\TORI\Content\NewFolder\Tori\Map\_GENERATED\Zaid\Cylinder_EAFFF0DF.uasset'. Unknown extension 'uasset'.
+[2023.06.19-12.45.38:820][706]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.19-12.45.38:855][706]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.19-12.45.38:862][707]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.19-12.45.44:909][824]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.06.19-12.45.44:931][824]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.19-12.45.55:517][998]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.19-12.45.55:523][998]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.19-12.45.55:664][999]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.19-12.46.01:248][ 44]LogContentBrowser: Attempting asset rename: NewFolder -> TORI
+[2023.06.19-12.46.01:248][ 44]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.19-12.46.08:133][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.19-12.46.08:138][101]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.19-12.46.08:171][103]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.19-12.46.14:579][153]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.06.19-12.46.14:580][153]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.19-12.46.26:115][283]LogSlate: Window 'New Level' being destroyed
+[2023.06.19-12.46.26:191][283]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.19-12.46.26:201][283]LightingResults: New page: Lighting Build
+[2023.06.19-12.46.26:220][283]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.06.19-12.46.26:513][283]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-12.46.26:574][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-12.46.26:781][283]MapCheck: New page: Map Check
+[2023.06.19-12.46.26:782][283]LightingResults: New page: Lighting Build
+[2023.06.19-12.46.27:007][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.19-12.46.27:579][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.06.19-12.46.28:106][283]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.06.19-12.46.28:106][283]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.19-12.46.28:107][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-12.46.28:108][283]LogAIModule: Creating AISystem for world Untitled_1
+[2023.06.19-12.46.28:984][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.19-12.46.29:050][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.06.19-12.46.29:050][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.19-12.46.29:050][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2023.06.19-12.46.29:051][283]LogFileHelpers: Loading map 'Template_Default' took 2.860
+[2023.06.19-12.46.35:010][302]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.19-12.46.56:648][429]LogSlate: Window 'Save Level As' being destroyed
+[2023.06.19-12.46.56:993][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-12.46.57:111][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.06.19-12.46.57:125][429]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.19-12.46.57:126][429]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM052DC393432952322D0975B404A62A43.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.19-12.46.57:521][429]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TORI/Maps/JTM_BuiltData
+[2023.06.19-12.46.57:522][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM_BuiltData" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM_BuiltData.uasset" SILENT=true
+[2023.06.19-12.46.57:547][429]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM_BuiltData
+[2023.06.19-12.46.57:547][429]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_BuiltData0E582F42459A0CE27F64AEBC24CCE11E.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM_BuiltData.uasset'
+[2023.06.19-12.46.57:550][429]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TORI/Maps/JTM_BuiltData
+[2023.06.19-12.46.57:598][429]LogFileHelpers: Saving map 'JTM' took 0.795
+[2023.06.19-12.46.57:604][429]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.19-12.46.57:604][429]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.19-12.46.57:604][429]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TORI/Maps/JTM_BuiltData.JTM_BuiltData
