@@ -1291,3 +1291,10 @@ Recommended: 22.2.2
 [2023.06.19-13.16.42:928][ 61]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto2
 [2023.06.19-13.16.42:928][ 61]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_E95B4F45_Auto28D77B4F94B1F619E1E0A5B806D9C662D.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_E95B4F45_Auto2.uasset'
 [2023.06.19-13.16.42:928][ 61]LogFileHelpers: Auto-saving content packages took 0.241
+[2023.06.19-13.17.01:828][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-13.17.01:842][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.19-13.17.01:912][116]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.19-13.17.02:053][116]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM7C5719BD4F654DD4445693BFD2C0E434.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.19-13.17.02:077][116]LogFileHelpers: No new changes to save!
+[2023.06.19-13.17.02:218][116]AssetCheck: New page: Asset Save: JTM
+[2023.06.19-13.17.02:244][116]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
