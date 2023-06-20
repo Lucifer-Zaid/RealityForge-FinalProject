@@ -1279,3 +1279,11 @@ Recommended: 22.2.2
 [2023.06.20-10.21.12:536][436]LogFileHelpers: No new changes to save!
 [2023.06.20-10.21.12:551][436]AssetCheck: New page: Asset Save: JTM
 [2023.06.20-10.21.12:551][436]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.20-10.24.25:379][ 78]LogViewport: Scene viewport resized to 1270x714, mode Windowed.
+[2023.06.20-10.24.30:458][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.20-10.24.30:608][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.20-10.24.30:631][107]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.20-10.24.30:632][107]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTMC1C92D8B4B62824DE4D9DF961B611020.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.20-10.24.30:651][107]LogFileHelpers: No new changes to save!
+[2023.06.20-10.24.30:680][107]AssetCheck: New page: Asset Save: JTM
+[2023.06.20-10.24.30:680][107]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
