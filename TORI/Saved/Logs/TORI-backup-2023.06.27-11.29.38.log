@@ -1,0 +1,1279 @@
+﻿Log file open, 06/27/23 11:50:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5296)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TORI
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Personal Projects\RealityForge-FinalProject\TORI\TORI.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1848] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="2723db244f40cf91d94389897f7767b6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.605779
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-DB917FFA45AC79B0EAE9DEBCB3D2A8D3
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1848] (), CPU: Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.27-06.51.00:156][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.27-06.51.00:157][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.27-06.51.00:160][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.27-06.51.00:161][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.27-06.51.00:161][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.27-06.51.00:161][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.27-06.51.00:161][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.27-06.51.00:161][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.27-06.51.00:460][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.27-06.51.00:460][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.27-06.51.01:203][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon (TM) HD 8500M/8700M (Max supported Feature Level 11_1, shader model 6.5)
+[2023.06.27-06.51.01:203][  0]LogD3D12RHI: Adapter has 1004MB of dedicated video memory, 0MB of dedicated system memory, and 4044MB of shared system memory, 1 output[s]
+[2023.06.27-06.51.01:211][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) HD Graphics Family (Max supported Feature Level 11_1, shader model 5.1)
+[2023.06.27-06.51.01:211][  0]LogD3D12RHI: Adapter has 112MB of dedicated video memory, 0MB of dedicated system memory, and 2048MB of shared system memory, 0 output[s]
+[2023.06.27-06.51.01:485][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.27-06.51.01:485][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4044MB of shared system memory, 0 output[s]
+[2023.06.27-06.51.01:485][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.27-06.51.01:486][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.27-06.51.01:486][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.27-06.51.01:486][  0]LogHAL: Display: Platform has ~ 8 GB [8482041856 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.27-06.51.01:486][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.27-06.51.01:486][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.27-06.51.01:486][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.27-06.51.01:531][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.27-06.51.01:531][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.27-06.51.01:531][  0]LogInit: Computer: DESKTOP-J429DJL
+[2023.06.27-06.51.01:531][  0]LogInit: User: Zaid
+[2023.06.27-06.51.01:531][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.06.27-06.51.01:531][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.27-06.51.01:531][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2023.06.27-06.51.01:531][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.27-06.51.01:531][  0]LogMemory: Process Physical Memory: 253.04 MB used, 278.98 MB peak
+[2023.06.27-06.51.01:531][  0]LogMemory: Process Virtual Memory: 203.62 MB used, 203.62 MB peak
+[2023.06.27-06.51.01:531][  0]LogMemory: Physical Memory: 3603.33 MB used,  4485.77 MB free, 8089.11 MB total
+[2023.06.27-06.51.01:531][  0]LogMemory: Virtual Memory: 4502.66 MB used,  11010.44 MB free, 15513.11 MB total
+[2023.06.27-06.51.01:531][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.27-06.51.01:542][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.27-06.51.02:064][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.27-06.51.02:065][  0]LogInit: Using OS detected language (en-US).
+[2023.06.27-06.51.02:065][  0]LogInit: Using OS detected locale (en-PK).
+[2023.06.27-06.51.02:221][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.06.27-06.51.03:053][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.27-06.51.03:500][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.27-06.51.03:500][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.06.27-06.51.03:500][  0]LogWindowsTextInputMethodSystem:   - English (Pakistan) - Touch Input Correction (TSF IME).
+[2023.06.27-06.51.03:500][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.06.27-06.51.04:017][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.27-06.51.04:017][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.27-06.51.08:024][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.27-06.51.08:024][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.27-06.51.08:362][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2023.06.27-06.51.08:402][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.27-06.51.08:404][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.27-06.51.08:405][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.27-06.51.08:419][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.27-06.51.08:419][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.27-06.51.08:824][  0]LogD3D12RHI:     GPU DeviceId: 0x6601 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.27-06.51.08:824][  0]LogWindows: Attached monitors:
+[2023.06.27-06.51.08:824][  0]LogWindows:     resolution: 1600x900, work area: (0, 0) -> (1600, 852), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.27-06.51.08:824][  0]LogWindows: Found 1 attached monitors.
+[2023.06.27-06.51.08:824][  0]LogWindows: EnumDisplayDevices:
+[2023.06.27-06.51.08:824][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.27-06.51.08:824][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.06.27-06.51.08:824][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.27-06.51.08:825][  0]LogWindows:    3. 'AMD Radeon (TM) HD 8500M/8700M' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.27-06.51.08:825][  0]LogWindows:    4. 'AMD Radeon (TM) HD 8500M/8700M' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.06.27-06.51.08:825][  0]LogWindows:    5. 'AMD Radeon (TM) HD 8500M/8700M' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.06.27-06.51.08:826][  0]LogWindows:    6. 'AMD Radeon (TM) HD 8500M/8700M' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.06.27-06.51.08:826][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.27-06.51.08:826][  0]LogD3D12RHI:     Adapter Name: AMD Radeon (TM) HD 8500M/8700M
+[2023.06.27-06.51.08:826][  0]LogD3D12RHI:   Driver Version: Adrenalin 2020 22.6.1 (internal:27.20.20913.2000, unified:27.20.20913.2000)
+[2023.06.27-06.51.08:826][  0]LogD3D12RHI:      Driver Date: 8-2-2022
+[2023.06.27-06.51.08:826][  0]LogRHI: Texture pool is 537 MB (70% of 768 MB)
+[2023.06.27-06.51.08:826][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.27-06.51.08:826][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.27-06.51.14:583][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the AMD graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.amd.com/en/support
+
+AMD Radeon (TM) HD 8500M/8700M
+Installed: Adrenalin 2020 22.6.1
+Recommended: 22.2.2
+[2023.06.27-06.51.14:733][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Personal Projects/RealityForge-FinalProject/TORI/TORI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Personal Projects/RealityForge-FinalProject/TORI/Intermediate/TurnkeyReport_0.log" -log="D:/Personal Projects/RealityForge-FinalProject/TORI/Intermediate/TurnkeyLog_0.log" -project="D:/Personal Projects/RealityForge-FinalProject/TORI/TORI.uproject"  -platform=all'
+[2023.06.27-06.51.14:733][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Personal Projects/RealityForge-FinalProject/TORI/TORI.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Personal Projects/RealityForge-FinalProject/TORI/Intermediate/TurnkeyReport_0.log" -log="D:/Personal Projects/RealityForge-FinalProject/TORI/Intermediate/TurnkeyLog_0.log" -project="D:/Personal Projects/RealityForge-FinalProject/TORI/TORI.uproject"  -platform=all" ]
+[2023.06.27-06.51.15:434][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.27-06.51.15:434][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.27-06.51.15:725][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.27-06.51.15:725][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.27-06.51.15:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.27-06.51.16:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.27-06.51.16:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.27-06.51.16:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.27-06.51.16:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.27-06.51.16:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.27-06.51.16:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.27-06.51.16:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.27-06.51.16:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.27-06.51.16:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.27-06.51.16:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.27-06.51.16:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.27-06.51.16:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.27-06.51.16:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.27-06.51.16:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.27-06.51.16:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.27-06.51.16:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.27-06.51.16:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.27-06.51.16:589][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.27-06.51.16:920][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.27-06.51.16:956][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.27-06.51.16:957][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.27-06.51.16:957][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.27-06.51.16:957][  0]LogTargetPlatformManager:   PCM
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager:   BINKA
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager:   OGG
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.27-06.51.17:113][  0]LogTargetPlatformManager:   OPUS
+[2023.06.27-06.51.18:175][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.27-06.51.18:280][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.27-06.51.18:434][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.27-06.51.18:434][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.27-06.51.18:434][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Personal Projects/RealityForge-FinalProject/TORI/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.27-06.51.18:466][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.27-06.51.18:466][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Personal Projects/RealityForge-FinalProject/TORI/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.27-06.51.18:479][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.27-06.51.18:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Personal Projects/RealityForge-FinalProject/TORI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.27-06.51.18:482][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.27-06.51.18:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Personal Projects/RealityForge-FinalProject/TORI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.27-06.51.18:482][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.27-06.51.18:585][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.27-06.51.18:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.27-06.51.18:585][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.27-06.51.18:904][  0]LogDerivedDataCache: Speed tests for C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.32 seconds
+[2023.06.27-06.51.18:904][  0]LogDerivedDataCache: Display: Performance to C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=4.50ms. RandomReadSpeed=3.69MBs, RandomWriteSpeed=71.13MBs. Assigned SpeedClass 'Fast'
+[2023.06.27-06.51.18:923][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.27-06.51.18:923][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.27-06.51.18:923][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.27-06.51.18:931][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.27-06.51.18:931][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.27-06.51.18:931][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Personal Projects/RealityForge-FinalProject/TORI/Intermediate/Shaders/WorkingDirectory/3544/).
+[2023.06.27-06.51.18:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zaid/AppData/Local/Temp/UnrealShaderWorkingDir/E07C206846C72749A5B64495FC6F3B90/'.
+[2023.06.27-06.51.18:932][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.27-06.51.18:932][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2023.06.27-06.51.31:469][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.27-06.51.31:569][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.27-06.51.32:798][  0]LogAssetRegistry: FAssetRegistry took 0.0139 seconds to start up
+[2023.06.27-06.51.32:859][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.27-06.51.33:251][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.27-06.51.33:253][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.27-06.51.33:545][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.27-06.51.33:545][  0]LogDeviceProfileManager: Active device profile: [0000055F43DB5CC0][0000055F3E220000 50] WindowsEditor
+[2023.06.27-06.51.33:545][  0]LogDeviceProfileManager: Profiles: [0000055F43DB5780][0000055F3E225000 50] Windows, [0000055F43DB5CC0][0000055F3E220000 50] WindowsEditor, [0000055F43DB32C0][0000055F3E1B7800 50] WindowsServer, [0000055F43DB5080][0000055F3E15C800 50] WindowsClient, [0000055F43DB2140][0000055F3E222800 50] IOS, [0000055F43DB4B40][0000055F3152A000 50] iPadAir2, [0000055F43DB6740][0000055F44832800 50] IPadPro, [0000055F43DB6AC0][0000055F44830000 50] iPadAir3, [0000055F43DB0FC0][0000055F44837800 50] iPadAir4, [0000055F43DB2300][0000055F4483A000 50] iPadMini4, [0000055F43DB4280][0000055F4483C800 50] iPadMini5, [0000055F43DB3D40][0000055F3F30C800 50] iPadMini6, [0000055F43DB8F80][0000055F43FC5000 50] iPhone6S, [0000055F43DB9300][0000055F43FC2800 50] iPhone7, [0000055F43DB9680][0000055F43FC0000 50] iPodTouch7, [0000055F43DB1DC0][0000055F43FCA000 50] iPhone6SPlus, [0000055F43DB8DC0][0000055F43FCC800 50] iPhone7Plus, [0000055F43DB3800][0000055F44835000 50] iPhoneSE, [0000055F43DB2680][0000055F43FD0000 50] iPhone8, [0000055F43DB8C00][0000055F43FD5000 50] iPhone8Plus, [0000055F43DB6580][0000055F43FD7800 50] iPhoneX, [0000055F43DB1180][0000055F43FDA000 50] iPhoneXS, [0000055F43DB8A40][0000055F43FDC800 50] iPhoneXSMax, [0000055F43DB9A00][0000055F43FC7800 50] iPhoneXR, [0000055F43DB4980][0000055F44860000 50] iPhone11, [0000055F43DB6900][0000055F44865000 50] iPhone11Pro, [0000055F43DB5E80][0000055F44867800 50] iPhone11ProMax, [0000055F43DB94C0][0000055F4486A000 50] iPhoneSE2, [0000055F43DB1340][0000055F4486C800 50] iPhone12Mini, [0000055F43DB86C0][0000055F43FD2800 50] iPhone12, [0000055F43DB4600][0000055F44870000 50] iPhone12Pro, [0000055F43DB7540][0000055F44875000 50] iPhone12ProMax, [0000055F43DB6C80][0000055F44877800 50] iPhone13Mini, [0000055F43DB6040][0000055F4487A000 50] iPhone13, [0000055F43DB3100][0000055F4487C800 50] iPhone13Pro, [0000055F43DB71C0][0000055F44862800 50] iPhone13ProMax, [0000055F43DB2F40][0000055F44880000 50] iPadPro105, [0000055F43DB7C40][0000055F44885000 50] iPadPro129, [0000055F43DB4EC0][0000055F44887800 50] iPadPro97, [0000055F43DB5B00][0000055F4488A000 50] iPadPro2_129, [0000055F43DB3B80][0000055F4488C800 50] iPad5, [0000055F43DB2840][0000055F44872800 50] iPad6, [0000055F43DB6200][0000055F44890000 50] iPad7, [0000055F43DB2BC0][0000055F44895000 50] iPad8, [0000055F43DB2A00][0000055F44897800 50] iPad9, [0000055F43DB47C0][0000055F4489A000 50] iPadPro11, [0000055F43DB2D80][0000055F4489C800 50] iPadPro2_11, [0000055F43DB24C0][0000055F44882800 50] iPadPro3_11, [0000055F43DB39C0][0000055F448A0000 50] iPadPro3_129, [0000055F43DB1C00][0000055F448A5000 50] iPadPro4_129, [0000055F43DB78C0][0000055F448A7800 50] iPadPro5_129, [0000055F43DB3640][0000055F448AA000 50] AppleTV, [0000055F43DB3480][0000055F448AC800 50] AppleTV4K, [0000055F43DB7000][0000055F44892800 50] TVOS, [0000055F43DBB7C0][0000055F448B2800 50] Mac, [0000055F43DBBB40][0000055F448B0000 50] MacEditor, [0000055F43DB8880][0000055F448B7800 50] MacClient, [0000055F43DBB280][0000055F448BA000 50] MacServer, [0000055F43DBBEC0][0000055F448A2800 50] Linux, [0000055F43DBC240][0000055F448BC800 50] LinuxEditor, [0000055F43DB5240][0000055F448C0000 50] LinuxArm64Editor, [0000055F43DB6E40][0000055F448C5000 50] LinuxArm64, [0000055F43DB9F40][0000055F448C7800 50] LinuxClient, [0000055F43DBC400][0000055F448CA000 50] LinuxArm64Client, [0000055F43DBA640][0000055F448CC800 50] LinuxServer, [0000055F43DBA480][0000055F448B5000 50] LinuxArm64Server, [0000055F43DB3F00][0000055F448D0000 50] Android, [0000055F43DBA800][0000055F448D5000 50] Android_Preview_OpenGL, [0000055F43DB63C0][0000055F448D7800 50] Android_Preview_Vulkan, [0000055F43DB9D80][0000055F448DA000 50] Android_Low, [0000055F43DB7E00][0000055F448DC800 50] Android_Mid, [0000055F43DB4D00][0000055F448C2800 50] Android_High, [0000055F43DBB600][0000055F448E0000 50] Android_Default, [0000055F43DBAD40][0000055F448E5000 50] Android_Adreno4xx, [0000055F43DBB0C0][0000055F448E7800 50] Android_Adreno5xx_Low, [0000055F43DB8180][0000055F448EA000 50] Android_Adreno5xx, [0000055F43DB8340][0000055F448EC800 50] Android_Adreno6xx, [0000055F43DB40C0][0000055F448D2800 50] Android_Adreno6xx_Vulkan, [0000055F43DBA2C0][0000055F448F0000 50] Android_Adreno7xx, [0000055F43DB1A40][0000055F448F5000 50] Android_Adreno7xx_Vulkan, [0000055F43DBC080][0000055F448F7800 50] Android_Mali_T6xx, [0000055F43DB9140][0000055F448FA000 50] Android_Mali_T7xx, [0000055F43DBBD00][0000055F448FC800 50] Android_Mali_T8xx, [0000055F43DBC5C0][0000055F448E2800 50] Android_Mali_G71, [0000055F43DB7FC0][0000055F44900000 50] Android_Mali_G72, [0000055F43DBAB80][0000055F44905000 50] Android_Mali_G72_Vulkan, [0000055F43DB8500][0000055F44907800 50] Android_Mali_G76, [0000055F43DB7380][0000055F4490A000 50] Android_Mali_G76_Vulkan, [0000055F43DB1F80][0000055F4490C800 50] Android_Mali_G77, [0000055F43DB7A80][0000055F448F2800 50] Android_Mali_G77_Vulkan, [0000055F43DB9840][0000055F44910000 50] Android_Mali_G78, [0000055F43DB5400][0000055F44915000 50] Android_Mali_G78_Vulkan, [0000055F43DB4440][0000055F44917800 50] Android_Mali_G710, [0000055F43DBD3C0][0000055F4491A000 50] Android_Mali_G710_Vulkan, [0000055F43DBB440][0000055F4491C800 50] Android_Xclipse_920, [0000055F43DBCE80][0000055F44902800 50] Android_Xclipse_920_Vulkan, [0000055F43DBCCC0][0000055F44920000 50] Android_Vulkan_SM5, [0000055F43DB55C0][0000055F44925000 50] Android_PowerVR_G6xxx, [0000055F43DBD200][0000055F44927800 50] Android_PowerVR_GT7xxx, [0000055F43DBC780][0000055F4492A000 50] Android_PowerVR_GE8xxx, [0000055F43DBE1C0][0000055F4492C800 50] Android_PowerVR_GM9xxx, [0000055F43DBD740][0000055F44912800 50] Android_PowerVR_GM9xxx_Vulkan, [0000055F43DBA9C0][0000055F44930000 50] Android_TegraK1, [0000055F43DBDC80][0000055F44935000 50] Android_Unknown_Vulkan, [0000055F43DBE000][0000055F44937800 50] Oculus_Quest, [0000055F43DB9BC0][0000055F4493A000 50] Oculus_Quest2, [0000055F43DBE700][0000055F4493C800 50] HoloLens, 
+[2023.06.27-06.51.33:545][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.27-06.51.34:283][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.27-06.51.35:985][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.27-06.51.35:985][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.27-06.51.35:985][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.27-06.51.35:985][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.27-06.51.35:985][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.27-06.51.36:423][  0]LogNetVersion: TORI 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3624178474)
+[2023.06.27-06.51.40:400][  0]LogSlate: Border
+[2023.06.27-06.51.40:400][  0]LogSlate: BreadcrumbButton
+[2023.06.27-06.51.40:400][  0]LogSlate: Default
+[2023.06.27-06.51.40:400][  0]LogSlate: Icons.Save
+[2023.06.27-06.51.40:400][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.27-06.51.40:400][  0]LogSlate: ListView
+[2023.06.27-06.51.40:400][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.27-06.51.40:400][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.27-06.51.40:400][  0]LogSlate: TableView.DarkRow
+[2023.06.27-06.51.40:400][  0]LogSlate: TableView.Row
+[2023.06.27-06.51.40:400][  0]LogSlate: TreeView
+[2023.06.27-06.51.49:910][  0]SourceControl: Source control is disabled
+[2023.06.27-06.51.50:449][  0]SourceControl: Source control is disabled
+[2023.06.27-06.51.50:449][  0]SourceControl: Source control is disabled
+[2023.06.27-06.51.51:355][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.06.27-06.51.51:355][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.06.27-06.51.51:355][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.27-06.51.57:486][  0]LogPython: Using Python 3.9.7
+[2023.06.27-06.51.59:800][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7197127F41C8E9A426801493FFCD7092 | Instance: 523D756543C671810B591997FD08F493 (DESKTOP-J429DJL-3544).
+[2023.06.27-06.52.00:939][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.27-06.52.01:009][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.27-06.52.03:240][  0]SourceControl: Source control is disabled
+[2023.06.27-06.52.05:672][  0]SourceControl: Source control is disabled
+[2023.06.27-06.52.06:378][  0]SourceControl: Source control is disabled
+[2023.06.27-06.52.06:468][  0]LogUProjectInfo: Found projects:
+[2023.06.27-06.52.07:868][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.27-06.52.08:877][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.27-06.52.09:231][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.27-06.52.09:231][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.27-06.52.10:243][  0]LogCollectionManager: Loaded 0 collections in 0.001299 seconds
+[2023.06.27-06.52.11:126][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/Collections/' took 0.00s
+[2023.06.27-06.52.11:126][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/RealityForge-FinalProject/TORI/Content/Developers/Zaid/Collections/' took 0.00s
+[2023.06.27-06.52.11:126][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/RealityForge-FinalProject/TORI/Content/Collections/' took 0.00s
+[2023.06.27-06.52.12:131][  0]LogEngine: Initializing Engine...
+[2023.06.27-06.52.12:150][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.27-06.52.12:242][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.27-06.52.14:454][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.27-06.52.14:455][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.27-06.52.14:545][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-06.52.14:646][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.27-06.52.14:647][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.27-06.52.14:808][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.27-06.52.14:826][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.27-06.52.14:826][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.27-06.52.14:827][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.27-06.52.14:827][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.27-06.52.14:827][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.27-06.52.14:827][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.27-06.52.14:828][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.27-06.52.14:828][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.27-06.52.14:828][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.27-06.52.15:111][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.27-06.52.15:243][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- High Definition Audio Device)
+[2023.06.27-06.52.15:244][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.27-06.52.15:431][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.27-06.52.15:431][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.27-06.52.15:433][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.27-06.52.15:433][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.27-06.52.15:435][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.27-06.52.15:435][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.27-06.52.15:435][  0]LogInit: FAudioDevice initialized.
+[2023.06.27-06.52.15:435][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.27-06.52.15:435][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.27-06.52.15:435][  0]LogInit: Texture streaming: Enabled
+[2023.06.27-06.52.15:607][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.27-06.52.15:735][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.27-06.52.16:054][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.27-06.52.16:197][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.27-06.52.16:197][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.27-06.52.48:416][  0]LogLiveCoding: Display: First instance in process group "UE_TORI_0x8f0f9ace", spawning console
+[2023.06.27-06.52.48:416][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.27-06.52.48:416][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.27-06.52.48:443][  0]LogInit: Transaction tracking system initialized
+[2023.06.27-06.52.48:803][  0]BlueprintLog: New page: Editor Load
+[2023.06.27-06.52.50:037][  0]LocalizationService: Localization service is disabled
+[2023.06.27-06.52.50:311][  0]TimingProfiler: Initialize
+[2023.06.27-06.52.50:311][  0]TimingProfiler: OnSessionChanged
+[2023.06.27-06.52.50:311][  0]LoadingProfiler: Initialize
+[2023.06.27-06.52.50:312][  0]LoadingProfiler: OnSessionChanged
+[2023.06.27-06.52.50:312][  0]NetworkingProfiler: Initialize
+[2023.06.27-06.52.50:312][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.27-06.52.50:312][  0]MemoryProfiler: Initialize
+[2023.06.27-06.52.50:312][  0]MemoryProfiler: OnSessionChanged
+[2023.06.27-06.52.57:122][  0]LogFileCache: Scanning file cache for directory 'D:/Personal Projects/RealityForge-FinalProject/TORI/Content/' took 0.03s
+[2023.06.27-06.52.57:122][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.27-06.52.57:918][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.27-06.52.57:920][  0]SourceControl: Source control is disabled
+[2023.06.27-06.52.57:920][  0]LogUnrealEdMisc: Loading editor; pre map load, took 170.064
+[2023.06.27-06.52.57:921][  0]Cmd: MAP LOAD FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.27-06.52.57:921][  0]LightingResults: New page: Lighting Build
+[2023.06.27-06.52.57:932][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-06.52.57:932][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-06.52.57:932][  0]MapCheck: New page: Map Check
+[2023.06.27-06.52.57:932][  0]LightingResults: New page: Lighting Build
+[2023.06.27-06.52.57:947][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.27-06.52.57:950][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.06.27-06.53.03:142][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'JTM'.
+[2023.06.27-06.53.03:142][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.27-06.53.03:142][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-06.53.03:143][  0]LogAIModule: Creating AISystem for world JTM
+[2023.06.27-06.53.03:248][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.27-06.53.03:269][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.27-06.53.03:269][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.27-06.53.03:269][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2023.06.27-06.53.03:269][  0]LogFileHelpers: Loading map 'JTM' took 5.349
+[2023.06.27-06.53.03:606][  0]LogUnrealEdMisc: Total Editor Startup Time, took 175.750
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: ================================================
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.27-06.53.03:606][  0]LogShaderCompilers: Display: ================================================
+[2023.06.27-06.53.03:883][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.27-06.53.03:883][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.27-06.53.03:883][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.27-06.53.03:883][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.27-06.53.03:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-06.53.03:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-06.53.03:991][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-06.53.04:003][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-06.53.04:910][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.27-06.53.04:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:017][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:017][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:049][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:049][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:113][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:113][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:305][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:365][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:365][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:431][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:431][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:559][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:560][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:610][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:610][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:665][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.27-06.53.05:665][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.27-06.53.05:665][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.27-06.53.07:596][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.27-06.53.07:787][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.06.27-06.53.13:376][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.06.27-06.53.27:917][  0]LogSlate: Took 0.198158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.27-06.53.28:028][  0]LogSlate: Took 0.094406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.27-06.53.28:143][  0]LogSlate: Took 0.112911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.27-06.53.28:221][  0]LogViewport: Scene viewport resized to 1220x714, mode Windowed.
+[2023.06.27-06.53.34:125][  0]LogStall: Startup...
+[2023.06.27-06.53.34:133][  0]LogStall: Startup complete.
+[2023.06.27-06.53.34:718][  0]LogLoad: (Engine Initialization) Total time: 206.83 seconds
+[2023.06.27-06.53.34:718][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.27-06.53.35:473][  0]LogSlate: Took 0.070251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.27-06.53.37:631][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.27-06.53.43:864][  1]LogAssetRegistry: Asset discovery search completed in 130.9748 seconds
+[2023.06.27-06.53.45:471][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000340 seconds (updated 0 objects)
+[2023.06.27-06.53.48:735][  2]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.06.27-06.54.03:156][ 35]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.27-06.54.07:762][ 61]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:48.819 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.27-06.54.43:302][290]LogSlate: Took 0.028247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.27-06.54.43:562][290]LogSlate: Took 0.028783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.27-07.03.29:889][ 33]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.14.06:162][923]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.27.16:026][278]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.39.07:343][374]LogViewport: Scene viewport resized to 743x714, mode Windowed.
+[2023.06.27-07.43.27:845][625]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594) ...
+[2023.06.27-07.43.30:622][625]LogMeshUtilities: Finished distance field build in 1.7s - 7x7x7 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 0% occupied, 0 triangles, Cylinder_878C5594
+[2023.06.27-07.43.30:640][625]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594) ...
+[2023.06.27-07.43.32:515][625]LogStaticMesh: Display: Building static mesh Cylinder_878C5594...
+[2023.06.27-07.43.32:515][625]LogStaticMesh: Built static mesh [0.38s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594.Cylinder_878C5594
+[2023.06.27-07.43.48:711][700]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437) ...
+[2023.06.27-07.43.48:775][700]LogStaticMesh: Display: Building static mesh Cylinder_28A5F437...
+[2023.06.27-07.43.48:775][700]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437) ...
+[2023.06.27-07.43.48:850][700]LogStaticMesh: Built static mesh [0.02s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437
+[2023.06.27-07.43.48:868][700]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437) ...
+[2023.06.27-07.43.55:034][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.44.02:633][752]LogUObjectHash: Compacting FUObjectHashTables data took 296.52ms
+[2023.06.27-07.44.03:672][752]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.250777 seconds
+[2023.06.27-07.44.04:452][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto1
+[2023.06.27-07.44.04:453][752]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto1932DD5CA4EE2BE947383DC9D3723F845.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto1.umap'
+[2023.06.27-07.44.05:110][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 7.503
+[2023.06.27-07.44.05:110][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 7.503
+[2023.06.27-07.44.05:212][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594] ([1] browsable assets)...
+[2023.06.27-07.44.07:104][752]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594.Cylinder_878C5594]
+[2023.06.27-07.44.07:104][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594]
+[2023.06.27-07.44.07:594][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594_Auto1
+[2023.06.27-07.44.07:603][752]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_878C5594_Auto17A3E7D594E5FC49B1B0543B1F1E57C67.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594_Auto1.uasset'
+[2023.06.27-07.44.07:604][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437] ([1] browsable assets)...
+[2023.06.27-07.44.07:692][752]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437]
+[2023.06.27-07.44.07:692][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437]
+[2023.06.27-07.44.07:847][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437_Auto1
+[2023.06.27-07.44.07:847][752]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_28A5F437_Auto1A99430424703CBE86F2445956BBCE9B5.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437_Auto1.uasset'
+[2023.06.27-07.44.07:860][752]LogFileHelpers: Auto-saving content packages took 2.725
+[2023.06.27-07.45.28:504][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.46.18:304][469]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.49.58:262][ 28]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.51.48:458][864]LogStaticMesh: Display: Building static mesh Cylinder_28A5F437...
+[2023.06.27-07.51.48:458][864]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437) ...
+[2023.06.27-07.51.48:575][865]LogStaticMesh: Built static mesh [0.03s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437
+[2023.06.27-07.51.51:584][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.53.12:500][189]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.53.21:407][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-07.53.26:649][281]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.660 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.27-07.54.33:656][579]LogStaticMesh: Display: Building static mesh Cylinder_28A5F437...
+[2023.06.27-07.54.33:656][579]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437) ...
+[2023.06.27-07.54.33:909][580]LogStaticMesh: Built static mesh [0.10s] /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437
+[2023.06.27-07.54.37:712][593]LogViewport: Scene viewport resized to 1220x714, mode Windowed.
+[2023.06.27-07.54.44:024][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.27-07.54.44:407][625]LogUObjectHash: Compacting FUObjectHashTables data took  51.69ms
+[2023.06.27-07.54.45:076][625]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.27-07.54.45:077][625]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM7849DE2944C1C8399CB1C090CB1E4372.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.27-07.54.45:391][625]LogFileHelpers: No new changes to save!
+[2023.06.27-07.54.45:465][625]AssetCheck: New page: Asset Save: JTM
+[2023.06.27-07.54.45:479][625]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.27-07.55.24:406][958]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.27-07.55.31:523][958]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.27-07.55.31:687][958]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.27-07.55.31:694][958]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.27-07.55.31:859][960]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.27-07.55.44:107][ 27]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Rope
+[2023.06.27-07.55.45:605][ 27]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.27-07.56.47:774][220]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.56.49:266][221]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-07.56.49:298][221]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-07.56.49:696][221]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_0
+[2023.06.27-07.56.49:699][221]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_0
+[2023.06.27-07.56.49:886][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-07.56.49:986][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-07.57.28:788][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.06.27-07.57.28:788][221]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.57.28:788][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.000000s
+[2023.06.27-07.57.28:788][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [21030ms] waiting for h/w. InstanceID=1
+[2023.06.27-07.57.31:335][221]LogBlueprintEditor: Perf: 39.6 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.06.27-07.57.31:350][221]LogBlueprintEditor: Perf: 37.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2023.06.27-07.57.31:350][221]LogBlueprintEditor: Perf: 1.6 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2023.06.27-07.57.31:350][221]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib
+[2023.06.27-07.58.29:703][221]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2023.06.27-07.58.30:346][221]LogTexture: Display: Waiting for textures to be ready 0/2 (/Engine/EditorResources/TilePatine_N) ...
+[2023.06.27-07.58.37:022][221]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002861s (72.163578s overbudget)
+[2023.06.27-07.58.51:543][221]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5444
+[2023.06.27-07.58.51:583][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.06.27-07.58.51:583][221]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.06.27-07.58.51:583][221]LogViewport: Scene viewport resized to 613x391, mode Windowed.
+[2023.06.27-07.58.52:878][222]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.06.27-07.58.55:884][222]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b50f1227-205a-45f4-adaa-51ae0a03c6fd}, Name=Speakers (3- High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1975.25
+[2023.06.27-07.58.55:997][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.27-07.58.56:209][223]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-07.58.56:209][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.27-07.58.56:946][224]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5444
+[2023.06.27-07.58.57:950][225]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b50f1227-205a-45f4-adaa-51ae0a03c6fd}, Name=Speakers (3- High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=409.29
+[2023.06.27-07.58.57:950][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.27-07.58.57:986][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.27-08.02.29:910][840]LogSlate: Window 'BP_Rope' being destroyed
+[2023.06.27-08.02.32:719][840]LogViewport: Scene viewport resized to 949x689, mode Windowed.
+[2023.06.27-08.04.42:460][106]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-08.04.43:093][106]LogUObjectHash: Compacting FUObjectHashTables data took  17.15ms
+[2023.06.27-08.04.44:846][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-08.04.45:028][155]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-08.04.45:028][155]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_RopeFA97F3A54A271C557018498F9ECB995C.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-08.04.45:084][155]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-08.04.45:084][155]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-08.05.10:994][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.06.27-08.05.11:108][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto2
+[2023.06.27-08.05.11:108][277]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto298760E574E6322589878EEB570C04255.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto2.umap'
+[2023.06.27-08.05.11:625][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.696
+[2023.06.27-08.05.11:625][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.696
+[2023.06.27-08.05.11:626][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437] ([1] browsable assets)...
+[2023.06.27-08.05.11:849][277]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437]
+[2023.06.27-08.05.11:977][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437]
+[2023.06.27-08.05.11:990][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437_Auto2
+[2023.06.27-08.05.12:107][277]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_28A5F437_Auto2A5822D4C44D3664E73BFD084E56837C0.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437_Auto2.uasset'
+[2023.06.27-08.05.12:108][277]LogFileHelpers: Auto-saving content packages took 0.482
+[2023.06.27-08.10.05:283][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-08.10.05:308][236]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-08.10.05:309][236]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_RopeDE9F9864447873375FB854B433FEC167.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-08.10.05:333][236]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-08.10.05:333][236]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-08.13.09:885][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-08.13.09:885][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-08.13.09:886][912]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_1
+[2023.06.27-08.13.09:906][912]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_1
+[2023.06.27-08.13.16:424][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-08.13.16:424][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-08.13.16:453][946]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_2
+[2023.06.27-08.13.16:455][946]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_2
+[2023.06.27-08.13.44:115][ 65]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-08.15.58:878][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.27-08.15.58:891][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto3
+[2023.06.27-08.15.58:891][656]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto344B512CF4942D3F3DF9E06A1F411C5B8.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto3.umap'
+[2023.06.27-08.16.00:003][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 1.207
+[2023.06.27-08.16.00:003][656]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.207
+[2023.06.27-08.25.36:119][375]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-08.45.10:044][110]LogSlate: Took 0.056205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.27-08.46.21:403][774]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2023.06.27-08.46.21:472][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto4
+[2023.06.27-08.46.21:472][774]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto4C38F212A4D07E587D3932F8AF2F28924.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto4.umap'
+[2023.06.27-08.46.21:561][774]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.310
+[2023.06.27-08.46.21:561][774]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.310
+[2023.06.27-08.46.21:562][774]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TORI/Blueprint/BP_Rope] ([2] browsable assets)...
+[2023.06.27-08.46.21:562][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Blueprint/BP_Rope]
+[2023.06.27-08.46.21:696][774]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto4
+[2023.06.27-08.46.21:697][774]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope_Auto44C14DE5F475E713305871996FDDA2F6B.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto4.uasset'
+[2023.06.27-08.46.21:697][774]LogFileHelpers: Auto-saving content packages took 0.136
+[2023.06.27-08.47.39:312][389]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-08.47.39:514][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.06.27-08.47.41:653][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-08.47.41:671][503]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-08.47.41:671][503]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope5FC465304B69F4FC70F017A1272F8A5F.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-08.47.41:741][503]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-08.47.41:741][503]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-08.47.44:082][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-08.47.44:088][636]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-08.47.44:088][636]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_RopeBDA773D840089D89318598AD658B78FE.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-08.47.44:110][636]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-08.47.44:110][636]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-08.48.51:441][462]LogContentBrowser: Attempting asset rename: Cylinder_28A5F437 -> SM_Rope
+[2023.06.27-08.48.54:943][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/_GENERATED/Zaid/SM_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/_GENERATED/Zaid/SM_Rope.uasset" SILENT=true
+[2023.06.27-08.48.54:950][462]LogSavePackage: Moving output files for package: /Game/TORI/Maps/_GENERATED/Zaid/SM_Rope
+[2023.06.27-08.48.54:951][462]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/SM_Rope3ED0F0014190D96EB29B18897D8DAE9C.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/_GENERATED/Zaid/SM_Rope.uasset'
+[2023.06.27-08.48.54:964][462]LogSavePackage: Moving output files for package: /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437
+[2023.06.27-08.48.54:964][462]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_28A5F4373DE9DC224557626ABC420CA471797CD5.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.uasset'
+[2023.06.27-08.48.55:079][462]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-08.48.55:079][462]LogContentValidation: Display: Validating StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/SM_Rope.SM_Rope
+[2023.06.27-08.48.55:079][462]LogContentValidation: Display: Validating ObjectRedirector /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_28A5F437.Cylinder_28A5F437
+[2023.06.27-08.51.18:194][169]LogSlate: Took 0.027982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.27-08.51.52:625][552]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-08.51.52:763][552]LogMaterial: Display: Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material needed to have new flag set bUsedWithSplineMeshes !
+[2023.06.27-08.51.52:858][552]LogMaterial: Display: Missing cached shadermap for M_MS_Surface_Material in PCD3D_SM5, Default, SM5 (DDC key hash: D97F5770434DD956FA509E1C3C0EE9090B40B97B), compiling. 
+[2023.06.27-08.51.57:817][552]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.369 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.06.27-08.51.57:818][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.06.27-08.52.25:367][595]LogWindows: LaunchFileInExternalEditor D:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl 
+[2023.06.27-08.52.29:542][595]LogWindows: Launch application code for D:/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl : 42
+[2023.06.27-08.52.29:585][595]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.06.27-08.52.29:600][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:600][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:601][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:602][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:603][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:604][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:604][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:604][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:604][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:626][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:626][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:627][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:628][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:629][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:630][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:631][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:632][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:633][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:634][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:635][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:635][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:635][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:828][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:828][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:829][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:829][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:829][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.29:829][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.30:530][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:737][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:764][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:765][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:861][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:861][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:861][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:861][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.31:861][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.33:175][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.34:244][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.34:546][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.36:880][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.36:883][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.37:196][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.37:197][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.37:197][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.37:197][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.37:198][595]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.27-08.52.51:312][131]LogShaderCompilers: Display: ================================================
+[2023.06.27-08.52.51:312][131]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.27-08.52.51:312][131]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2023.06.27-08.52.51:313][131]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2023.06.27-08.52.51:321][131]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.01%
+[2023.06.27-08.52.51:343][131]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.27-08.52.51:343][131]LogShaderCompilers: Display: Shaders Compiled: 32
+[2023.06.27-08.52.51:343][131]LogShaderCompilers: Display: Jobs assigned 31, completed 10 (32.26%)
+[2023.06.27-08.52.51:343][131]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.06.27-08.52.51:345][131]LogShaderCompilers: Display: Time job spent in pending queue: average 1.92 s, longest 53.90 s
+[2023.06.27-08.52.51:345][131]LogShaderCompilers: Display: Job execution time: average 53.72 s, max 53.78 s
+[2023.06.27-08.52.51:345][131]LogShaderCompilers: Display: Job life time (pending + execution): average 53.90 s, max 53.90
+[2023.06.27-08.52.51:346][131]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 53.90 s
+[2023.06.27-08.52.51:346][131]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 7.75 jobs/batch
+[2023.06.27-08.52.51:346][131]LogShaderCompilers: Display: Average processing rate: 0.19 jobs/sec
+[2023.06.27-08.52.51:346][131]LogShaderCompilers: Display: Effective parallelization: 0.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2023.06.27-08.52.51:346][131]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 5.28 sec, max 5.28 sec, min 5.28 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 3.81 sec, max 3.81 sec, min 3.81 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 3.13 sec, max 3.53 sec, min 2.72 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    2 times, average 2.89 sec, max 3.39 sec, min 2.39 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 20.26% of total time (compiled    2 times, average 3.13 sec, max 3.53 sec, min 2.72 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                             FDebugViewModeVS - 18.71% of total time (compiled    2 times, average 2.89 sec, max 3.39 sec, min 2.39 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.11% of total time (compiled    1 times, average 5.28 sec, max 5.28 sec, min 5.28 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.34% of total time (compiled    1 times, average 3.81 sec, max 3.81 sec, min 3.81 sec)
+[2023.06.27-08.52.51:366][131]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 8.61% of total time (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2023.06.27-08.52.51:367][131]LogShaderCompilers: Display: ================================================
+[2023.06.27-08.53.30:232][356]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.193 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.27-08.56.22:574][868]LogUObjectHash: Compacting FUObjectHashTables data took   7.76ms
+[2023.06.27-08.56.22:599][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto5
+[2023.06.27-08.56.22:599][868]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto5BBCD892F4C232AA394C4E4B9F9070946.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto5.umap'
+[2023.06.27-08.56.22:691][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.365
+[2023.06.27-08.56.22:691][868]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.365
+[2023.06.27-08.56.22:692][868]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material] ([1] browsable assets)...
+[2023.06.27-08.56.22:773][868]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material]
+[2023.06.27-08.56.22:773][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material]
+[2023.06.27-08.56.22:837][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material_Auto5
+[2023.06.27-08.56.22:837][868]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/M_MS_Surface_Material_Auto5752273F04FAD3FC106D91CB566CE7F88.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material_Auto5.uasset'
+[2023.06.27-08.56.22:853][868]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K] ([1] browsable assets)...
+[2023.06.27-08.56.22:977][868]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K.MI_Three_Strand_Manila_Rope_ulztacqs_4K]
+[2023.06.27-08.56.22:977][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K]
+[2023.06.27-08.56.23:068][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K_Auto5
+[2023.06.27-08.56.23:068][868]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/MI_Three_Strand_Manila_Rope_ulztB2C333B94E8C8A9EA31C5B81E1BCBADC.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K_Auto5.uasset'
+[2023.06.27-08.56.23:069][868]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TORI/Blueprint/BP_Rope] ([2] browsable assets)...
+[2023.06.27-08.56.23:069][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Blueprint/BP_Rope]
+[2023.06.27-08.56.23:223][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto5
+[2023.06.27-08.56.23:223][868]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope_Auto58190F8AB4094AEE37BE9F8B1E826DFF2.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto5.uasset'
+[2023.06.27-08.56.23:224][868]LogFileHelpers: Auto-saving content packages took 0.533
+[2023.06.27-09.06.40:385][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-09.06.40:394][803]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-09.06.40:394][803]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope0F73F4BD469360AF520A9196CD314B81.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-09.06.40:419][803]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-09.06.40:419][803]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-09.11.49:383][174]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-09.11.49:521][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.06.27-09.11.50:678][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-09.11.50:742][215]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-09.11.50:743][215]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_RopeEFB44F084719034B3B97408B0734FEE2.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-09.11.50:762][215]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-09.11.50:762][215]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-09.12.24:238][506]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2023.06.27-09.12.24:272][506]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto6
+[2023.06.27-09.12.24:272][506]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto6E67E59C74818E382DA9CFEA642A622D1.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto6.umap'
+[2023.06.27-09.12.24:335][506]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.200
+[2023.06.27-09.12.24:335][506]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.200
+[2023.06.27-09.22.24:836][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.06.27-09.22.24:837][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.107
+[2023.06.27-09.22.24:837][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TORI/Blueprint/BP_Rope] ([2] browsable assets)...
+[2023.06.27-09.22.24:837][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Blueprint/BP_Rope]
+[2023.06.27-09.22.24:858][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto7
+[2023.06.27-09.22.24:858][235]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope_Auto7E3477AA946D4B1BF4A7C7FA087D432B6.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto7.uasset'
+[2023.06.27-09.22.24:858][235]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.06.27-09.53.19:418][767]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.226 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.27-10.45.52:064][110]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2023.06.27-10.45.52:069][110]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.243
+[2023.06.27-10.45.52:072][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TORI/Blueprint/BP_Rope] ([2] browsable assets)...
+[2023.06.27-10.45.52:072][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/TORI/Blueprint/BP_Rope]
+[2023.06.27-10.45.52:105][110]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto8
+[2023.06.27-10.45.52:105][110]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_Rope_Auto8685809CC4F46453C5B39C5A1190C3B75.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Blueprint/BP_Rope_Auto8.uasset'
+[2023.06.27-10.45.52:106][110]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.06.27-10.49.24:626][930]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-10.49.24:747][930]LogBlueprint: Error: [AssetLog] D:\Personal Projects\RealityForge-FinalProject\TORI\Content\TORI\Blueprint\BP_Rope.uasset: [Compiler] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2023.06.27-10.49.24:747][930]LogBlueprint: Error: [AssetLog] D:\Personal Projects\RealityForge-FinalProject\TORI\Content\TORI\Blueprint\BP_Rope.uasset: [Compiler] This blueprint (self) is not a SplineComponent, therefore ' Target ' must have a connection.
+[2023.06.27-10.49.25:588][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2023.06.27-10.50.23:403][288]BlueprintLog: New page: Compile BP_Rope
+[2023.06.27-10.50.23:580][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.06.27-10.50.25:355][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Blueprint/BP_Rope" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset" SILENT=true
+[2023.06.27-10.50.25:519][374]LogSavePackage: Moving output files for package: /Game/TORI/Blueprint/BP_Rope
+[2023.06.27-10.50.25:519][374]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/BP_RopeDA37600D426E3FE18A55AB8581EB6B3A.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Blueprint/BP_Rope.uasset'
+[2023.06.27-10.50.25:543][374]AssetCheck: New page: Asset Save: BP_Rope
+[2023.06.27-10.50.25:543][374]LogContentValidation: Display: Validating Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope
+[2023.06.27-10.51.35:662][283]Cmd: TRANSACTION UNDO
+[2023.06.27-10.51.35:683][283]LogEditorTransaction: Undo Move Elements
+[2023.06.27-10.53.19:949][604]LogDerivedDataCache: C:/Users/Zaid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.875 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.27-10.55.52:803][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.06.27-10.55.52:842][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto9
+[2023.06.27-10.55.52:842][ 58]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto974E449FD47E7DD479FD7D9A8091BED93.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto9.umap'
+[2023.06.27-10.55.52:937][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.225
+[2023.06.27-10.55.52:937][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.225
+[2023.06.27-10.55.53:674][ 62]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-10.56.09:860][162]Cmd: DELETE
+[2023.06.27-10.56.09:869][162]Cmd: ACTOR DELETE
+[2023.06.27-10.56.10:534][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.27-10.56.10:878][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.27-10.56.10:881][162]LogEditorActor: Deleted 1 Actors (0.427 secs)
+[2023.06.27-10.56.42:105][335]Cmd: DELETE
+[2023.06.27-10.56.42:105][335]Cmd: ACTOR DELETE
+[2023.06.27-10.56.42:108][335]LogEditorActor: Deleted Actor: BP_Rope_C
+[2023.06.27-10.56.42:287][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.27-10.56.42:289][335]LogEditorActor: Deleted 1 Actors (0.185 secs)
+[2023.06.27-10.56.59:353][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.06.27-10.57.00:061][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.27-10.57.00:163][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.27-10.57.00:194][428]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.27-10.57.00:194][428]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM12ABCFB84ADD9B465D5C24ABAEEDA280.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.27-10.57.00:497][428]LogFileHelpers: No new changes to save!
+[2023.06.27-10.57.00:497][428]LogFileHelpers: Saving map 'JTM' took 0.436
+[2023.06.27-10.57.00:755][428]LogSavePackage: Moving output files for package: /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material
+[2023.06.27-10.57.00:756][428]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/M_MS_Surface_Material07B56F4343C52024EA9EDFA9F41DD7C6.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset'
+[2023.06.27-10.57.00:783][428]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K
+[2023.06.27-10.57.00:837][428]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/MI_Three_Strand_Manila_Rope_ulzt780BA3E34977EEFA1CC326A89DA04A87.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K.uasset'
+[2023.06.27-10.57.00:885][428]LogSavePackage: Moving output files for package: /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594
+[2023.06.27-10.57.00:886][428]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Cylinder_878C55945DAF33D64C31139463071B9576878FBE.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594.uasset'
+[2023.06.27-10.57.01:095][428]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-10.57.01:095][428]LogContentValidation: Display: Validating StaticMesh /Game/TORI/Maps/_GENERATED/Zaid/Cylinder_878C5594.Cylinder_878C5594
+[2023.06.27-10.57.01:095][428]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Three_Strand_Manila_Rope_ulztacqs/MI_Three_Strand_Manila_Rope_ulztacqs_4K.MI_Three_Strand_Manila_Rope_ulztacqs_4K
+[2023.06.27-10.57.01:095][428]LogContentValidation: Display: Validating Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material
+[2023.06.27-10.57.01:096][428]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.27-10.58.53:867][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.02.02:891][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.04.52:938][313]Cmd: DELETE
+[2023.06.27-11.04.52:938][313]Cmd: ACTOR DELETE
+[2023.06.27-11.04.52:941][313]LogEditorActor: Deleted Actor: BP_Rope_C
+[2023.06.27-11.04.53:114][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2023.06.27-11.04.53:116][313]LogEditorActor: Deleted 1 Actors (0.177 secs)
+[2023.06.27-11.04.58:264][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.05.22:098][459]Cmd: MODE GRID=0
+[2023.06.27-11.05.26:788][485]Cmd: MODE ROTGRID=0
+[2023.06.27-11.05.45:848][558]Cmd: MODE SCALEGRID=0
+[2023.06.27-11.06.15:041][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-11.06.15:041][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-11.06.15:059][295]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_3
+[2023.06.27-11.06.15:074][295]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_3
+[2023.06.27-11.06.22:288][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-11.06.22:288][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TORI/Blueprint/BP_Rope.BP_Rope_C
+[2023.06.27-11.06.22:309][358]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_4
+[2023.06.27-11.06.22:311][358]LogActorFactory: Actor Factory spawned Blueprint /Game/TORI/Blueprint/BP_Rope.BP_Rope as actor: BP_Rope_C /Game/TORI/Maps/JTM.JTM:PersistentLevel.BP_Rope_C_4
+[2023.06.27-11.06.29:909][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.07.24:804][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.07.48:450][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.08.23:126][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.08.37:897][ 25]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.10.19:810][525]Cmd: TRANSACTION UNDO
+[2023.06.27-11.10.19:810][525]LogEditorTransaction: Undo Move Elements
+[2023.06.27-11.12.51:687][240]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.13.33:527][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.14.21:061][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.15.18:064][952]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.17.55:957][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.27-11.17.56:127][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2023.06.27-11.17.56:197][699]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.27-11.17.56:198][699]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTMA9C385A14F78AD0063651FB8B11E288B.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.27-11.17.56:243][699]LogFileHelpers: No new changes to save!
+[2023.06.27-11.17.56:271][699]AssetCheck: New page: Asset Save: JTM
+[2023.06.27-11.17.56:271][699]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.27-11.18.35:734][818]LogHttp: Warning: 0000055F8EC60500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x55f348c09f0 [can pipeline])
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.145.182.170) port 443 (#2))
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.27-11.18.35:738][818]LogHttp: Warning: 0000055F8EC60500: libcurl info message cache 7 (Closing connection 2)
+[2023.06.27-11.18.35:800][818]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.19.16:298][939]LogHttp: Warning: 0000055F8EC67800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.19.16:345][939]LogHttp: Warning: 0000055F8EC67800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.19.16:345][939]LogHttp: Warning: 0000055F8EC67800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.19.16:345][939]LogHttp: Warning: 0000055F8EC67800: libcurl info message cache 1 (Closing connection 3)
+[2023.06.27-11.19.16:345][939]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.19.32:386][985]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.06.27-11.20.15:993][177]LogHttp: Warning: 0000055F8CEF0A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.20.15:993][177]LogHttp: Warning: 0000055F8CEF0A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.20.15:993][177]LogHttp: Warning: 0000055F8CEF0A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.20.15:993][177]LogHttp: Warning: 0000055F8CEF0A00: libcurl info message cache 1 (Closing connection 4)
+[2023.06.27-11.20.15:994][177]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.21.15:978][467]LogHttp: Warning: 0000055F8ED0BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.21.15:978][467]LogHttp: Warning: 0000055F8ED0BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.21.15:979][467]LogHttp: Warning: 0000055F8ED0BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.21.15:979][467]LogHttp: Warning: 0000055F8ED0BE00: libcurl info message cache 1 (Closing connection 5)
+[2023.06.27-11.21.15:979][467]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.22.15:750][908]LogHttp: Warning: 0000055F8D3F5500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.22.15:750][908]LogHttp: Warning: 0000055F8D3F5500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.22.15:750][908]LogHttp: Warning: 0000055F8D3F5500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.22.15:750][908]LogHttp: Warning: 0000055F8D3F5500: libcurl info message cache 1 (Closing connection 6)
+[2023.06.27-11.22.15:751][908]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.22.52:981][196]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (SM_SkySphere)
+[2023.06.27-11.23.16:767][275]LogHttp: Warning: 0000055F8D38D200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.23.16:767][275]LogHttp: Warning: 0000055F8D38D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.23.16:767][275]LogHttp: Warning: 0000055F8D38D200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.23.16:767][275]LogHttp: Warning: 0000055F8D38D200: libcurl info message cache 1 (Closing connection 7)
+[2023.06.27-11.23.16:767][275]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.23.33:006][336]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.24.07:354][479]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.27-11.24.15:737][511]LogHttp: Warning: 0000055F8DE15F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.24.15:737][511]LogHttp: Warning: 0000055F8DE15F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.24.15:737][511]LogHttp: Warning: 0000055F8DE15F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.24.15:739][511]LogHttp: Warning: 0000055F8DE15F00: libcurl info message cache 1 (Closing connection 8)
+[2023.06.27-11.24.15:739][511]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.25.15:866][783]LogHttp: Warning: 0000055F8DE1AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.25.15:866][783]LogHttp: Warning: 0000055F8DE1AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.25.15:866][783]LogHttp: Warning: 0000055F8DE1AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.25.15:866][783]LogHttp: Warning: 0000055F8DE1AF00: libcurl info message cache 1 (Closing connection 9)
+[2023.06.27-11.25.15:866][783]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.26.16:112][ 56]LogHttp: Warning: 0000055F8DE1AF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.26.16:112][ 56]LogHttp: Warning: 0000055F8DE1AF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.26.16:112][ 56]LogHttp: Warning: 0000055F8DE1AF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.26.16:113][ 56]LogHttp: Warning: 0000055F8DE1AF00: libcurl info message cache 1 (Closing connection 10)
+[2023.06.27-11.26.16:113][ 56]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.27.16:090][328]LogHttp: Warning: 0000055F8DE1D200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.27.16:091][328]LogHttp: Warning: 0000055F8DE1D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.27.16:091][328]LogHttp: Warning: 0000055F8DE1D200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.27.16:091][328]LogHttp: Warning: 0000055F8DE1D200: libcurl info message cache 1 (Closing connection 11)
+[2023.06.27-11.27.16:091][328]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.27.56:035][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.06.27-11.27.56:059][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TORI/Maps/JTM_Auto0
+[2023.06.27-11.27.56:059][503]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM_Auto0D90C5BAB493686E45301A098E3DAED0A.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/Autosaves/Game/TORI/Maps/JTM_Auto0.umap'
+[2023.06.27-11.27.56:152][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TORI/Maps/JTM' took 0.235
+[2023.06.27-11.27.56:152][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.235
+[2023.06.27-11.28.16:390][593]LogHttp: Warning: 0000055F8DDA0A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.27-11.28.16:390][593]LogHttp: Warning: 0000055F8DDA0A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.06.27-11.28.16:390][593]LogHttp: Warning: 0000055F8DDA0A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.06.27-11.28.16:390][593]LogHttp: Warning: 0000055F8DDA0A00: libcurl info message cache 1 (Closing connection 12)
+[2023.06.27-11.28.16:391][593]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2B4366D6-40A3-1648-56E3-259E706E3E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=2723db244f40cf91d94389897f7767b6%7C06b4e4dd255b406dbfaa733cb69a0338%7C59b0eee3-6aab-44b6-89af-89ba6b79f2f1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.27-11.28.39:377][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.27-11.29.03:157][697]LogSlate: Window 'Save Content' being destroyed
+[2023.06.27-11.29.03:883][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TORI/Maps/JTM" FILE="../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.27-11.29.03:983][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.27-11.29.04:008][697]LogSavePackage: Moving output files for package: /Game/TORI/Maps/JTM
+[2023.06.27-11.29.04:009][697]LogSavePackage: Moving '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Saved/JTM4D8F67DF46B3F148F5A4DBABCC637043.tmp' to '../../../../../Personal Projects/RealityForge-FinalProject/TORI/Content/TORI/Maps/JTM.umap'
+[2023.06.27-11.29.04:027][697]LogFileHelpers: No new changes to save!
+[2023.06.27-11.29.04:027][697]LogFileHelpers: Saving map 'JTM' took 0.145
+[2023.06.27-11.29.04:117][697]LogStall: Shutdown...
+[2023.06.27-11.29.04:377][697]LogStall: Shutdown complete.
+[2023.06.27-11.29.05:502][697]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-11.29.05:640][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-11.29.10:163][697]LogSlate: Window 'TORI - Unreal Editor' being destroyed
+[2023.06.27-11.29.16:614][697]AssetCheck: New page: Asset Save: JTM
+[2023.06.27-11.29.16:615][697]LogContentValidation: Display: Validating World /Game/TORI/Maps/JTM.JTM
+[2023.06.27-11.29.16:666][698]Cmd: QUIT_EDITOR
+[2023.06.27-11.29.16:742][698]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.06.27-11.29.16:994][698]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.06.27-11.29.17:054][698]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.06.27-11.29.17:059][698]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.06.27-11.29.18:451][698]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.06.27-11.29.18:451][698]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.06.27-11.29.18:451][698]LogAudio: Display: Audio Device unregistered from world 'JTM'.
+[2023.06.27-11.29.18:711][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.27-11.29.18:773][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.27-11.29.19:101][698]LogAudio: Display: Audio Device Manager Shutdown
+[2023.06.27-11.29.19:326][698]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.27-11.29.19:414][698]LogExit: Preparing to exit.
+[2023.06.27-11.29.21:439][698]LogUObjectHash: Compacting FUObjectHashTables data took  34.74ms
+[2023.06.27-11.29.21:602][698]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.21:755][698]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:406][698]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:571][698]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:573][698]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:573][698]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:573][698]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:581][698]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:581][698]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:581][698]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.22:581][698]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.27-11.29.31:430][698]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-11.29.31:431][698]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-11.29.32:572][698]LogWorld: UWorld::CleanupWorld for JTM, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-11.29.34:263][698]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.06.27-11.29.35:745][698]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.06.27-11.29.35:882][698]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.06.27-11.29.36:797][698]LogExit: Editor shut down
+[2023.06.27-11.29.38:056][698]LogExit: Transaction tracking system shut down
