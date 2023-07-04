@@ -2273,3 +2273,9 @@
 [0627/195033.742:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0627/195043.649:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0627/195043.664:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0704/123251.019:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0704/123251.034:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0704/123251.099:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0704/123251.100:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0704/123251.607:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
+[0704/123251.608:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 31
