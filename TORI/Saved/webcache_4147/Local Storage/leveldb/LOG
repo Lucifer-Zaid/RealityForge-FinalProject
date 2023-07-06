@@ -1,3 +1,6 @@
-2023/07/04-12:16:17.118 3258 Reusing MANIFEST D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2023/07/04-12:16:17.178 3258 Recovering log #3
-2023/07/04-12:16:17.197 3258 Reusing old log D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2023/07/06-11:18:21.307 3900 Reusing MANIFEST D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2023/07/06-11:18:21.743 3900 Recovering log #3
+2023/07/06-11:18:21.794 3900 Reusing old log D:/Personal Projects/RealityForge-FinalProject/TORI/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2023/07/06-13:21:05.190 910 Level-0 table #5: started
+2023/07/06-13:21:05.474 910 Level-0 table #5: 13057 bytes OK
+2023/07/06-13:21:05.705 910 Delete type=0 #3
