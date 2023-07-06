@@ -16,3 +16,6 @@ For the final project I decided to go with the japanese temple with the help of 
    ![tori base](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/a4d5fe71-11c8-4009-954d-ad98ca17917c)
 
    ![image](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/edd465ab-f358-4452-8696-d2a1807cf94a)
+
+   ![image](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/1cb87262-1f1c-4d16-8403-980a24ad9bd3)
+  
