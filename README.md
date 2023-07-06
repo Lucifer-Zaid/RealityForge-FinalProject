@@ -19,3 +19,4 @@ For the final project I decided to go with the japanese temple with the help of 
 
    ![image](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/1cb87262-1f1c-4d16-8403-980a24ad9bd3)
   
+   ![image](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/5549588f-a567-4066-a101-f441e6e3d3c6)
