@@ -22,6 +22,9 @@ For the final project I decided to go with the japanese temple with the help of 
    ![image](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/5549588f-a567-4066-a101-f441e6e3d3c6)
 
    ![HighresScreenshot00000](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/1176ad73-e9df-42fb-8616-4fcf0646b329)
+
+After building the torri the whole envoronment was build some pictures of the envirnment are as follows:
+
    
    ![AutoScreenshot](https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/6fb99c85-e76f-4d6b-b87b-dffbfc07b52a)
 
