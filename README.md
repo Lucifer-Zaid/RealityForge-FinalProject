@@ -42,5 +42,5 @@ After building the torri the whole envoronment was build some pictures of the en
 https://github.com/Lucifer-Zaid/RealityForge-FinalProject/assets/81683107/aaf6be3b-cad2-443d-8b2e-a23e67e2f63e
 
 
-  
+  The whole project is completed from qixel and given starter content
 
